@@ -20,8 +20,6 @@ public class EstudanteModel {
 
     private EstudanteEnum estudanteEnum;
     private Integer idade;
-
-
     public EstudanteModel(){
 
     }
